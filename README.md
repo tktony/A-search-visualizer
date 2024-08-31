@@ -1,6 +1,6 @@
 # A* Search Pathfinding Visualizer
 
-This code visualizes the A* pathfinding algorithm using `pygame` for graphics and `tkinter` for user input. Start and end points can be set on a grid and obstacles drawn, then algorithm finds the shortest path.
+This program visualizes the A* pathfinding algorithm using `pygame` for graphics and `tkinter` for user input. Start and end points can be set on a grid and obstacles drawn, then algorithm finds the shortest path.
 
 ## Features
 
