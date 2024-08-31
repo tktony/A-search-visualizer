@@ -21,9 +21,7 @@ This program visualizes the A* pathfinding algorithm using `pygame` for graphics
 ## Installation
 
 1. **Clone the Repository:**
-   ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   
 2. **Install the requirements**
    ```bash
    pip install -r requirements.txt
